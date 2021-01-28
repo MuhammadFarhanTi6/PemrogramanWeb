@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="in">
+  <head>
+    <meta charset="utf-8">
+    <title>Galeri Aswaja</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link href="https://fonts.googleapis.com/css?family=Hanalei+Fill" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Hanalei+Fill|Noto+Serif+JP|Raleway" rel="stylesheet">
+  </head>
+  <body>
+    
+    <article>
+    <div class="wrapper">
+      <div class="nav">
+        <div class="logo">
+          <a href="#">
+          <p>Galeri Aswaja</p>
+          </a>
+        </div>
+        
+        <nav>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Tours</li>
+          <li>Produk</li>
+          <li>Contact Us</li>
+        </ul>
+        </nav>
+     
+      </div>
+    
+
+    
+      <div class="header">
+        <h1>Galeri<span>Aswaja</span></h1>
+      </div>
+      <br><div class="tagline">
+        <br><p>Sebuah platform Olshop Busana Muslim dan Muslimah.</p><br>
+        <input class="search-area" type="text" name="text" placeholder="Nama Produk..." autocomplete="off">
+        <input class="search-btn" type="submit" name="submit" value="Search">
+      </div>
+      <div class="down">
+        <img src="1.PNG" alt="Logo Aswaja">
+      </div>
+    </div>
+  
+         
+  </article>
+  
+  </body>
+</html>
